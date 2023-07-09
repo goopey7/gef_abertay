@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9BF9ABFE-1FF3-471E-9829-1B9A620F05A7}</ProjectGuid>
+    <ProjectGuid>{F463C924-482B-47F4-AB3C-126476A85B81}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>gef_crossplatform</RootNamespace>
     <ProjectName>gef_crossplatform</ProjectName>

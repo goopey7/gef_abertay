@@ -14,4 +14,14 @@
       <UniqueIdentifier>{58a13aeb-a099-453d-8ba2-43d24db9372c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\system\platform_vulkan.cpp">
+      <Filter>system</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\system\platform_vulkan.h">
+      <Filter>system</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

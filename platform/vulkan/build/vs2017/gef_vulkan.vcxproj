@@ -18,6 +18,12 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\system\platform_vulkan.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\system\platform_vulkan.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{9BF9ABFE-1FF3-471E-9829-1B9A620F05A7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
